@@ -1,6 +1,6 @@
 # login_page
 
-A new Flutter project.
+My first Flutter App with Firebase integration .
 
 ## Getting Started
 
